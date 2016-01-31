@@ -1,0 +1,1 @@
+document.querySelector("#filter-nav").classList.add("hide");
